@@ -1,4 +1,4 @@
-# British terminology
+# 🇬🇧 terminology
 
 ## Background
 I've lived in 🇬🇧 for almost two years and realized they have words that are uncommon to a 🇨🇦. This is an index of all the words I've learned so far.
